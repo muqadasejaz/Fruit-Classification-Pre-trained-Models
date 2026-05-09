@@ -2,6 +2,10 @@
 
 A deep learning–based multiclass image classification system that uses pre-trained models (VGG16 and MobileNet) to accurately identify different fruit categories from images.
 
+<img width="1408" height="768" alt="Fruit Classification (2)" src="https://github.com/user-attachments/assets/990faaae-5dd4-4d5d-862c-3cb22016f979" />
+
+
+
 ##  Kaggle Notebook
 
 - **VGGNet Model (EDA + Training + Evaluation)**
